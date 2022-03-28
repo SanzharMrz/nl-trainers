@@ -1,0 +1,7 @@
+pandas
+numpy
+sklearn
+transformers
+openpyxl
+nlpaug
+matplotlib
